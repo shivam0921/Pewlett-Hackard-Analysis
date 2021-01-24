@@ -15,4 +15,4 @@ The analysis by identifying various relationship (primary and Foriegn Keys) betw
 * As we dig in the data we found out the total 90398 will be retring this year from Pewlett-Hackard. (Code :Select sum(count) as No_Of_Employees from retiring_titles)
 
 * The titles of employees that will retire soon is Senior Staff/Engineers that is more than 50% of employees  who are near to retirement.
- ![Retiring Titles] (https://github.com/shivam0921/Pewlett-Hackard-Analysis/blob/main/Challenge_Deliverable/retiring_titles.PNG)
+ ![Retiring Titles](https://github.com/shivam0921/Pewlett-Hackard-Analysis/blob/main/Challenge_Deliverable/retiring_titles.PNG)

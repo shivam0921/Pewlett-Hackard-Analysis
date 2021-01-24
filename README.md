@@ -16,3 +16,13 @@ The analysis by identifying various relationship (primary and Foriegn Keys) betw
 
 * The titles of employees that will retire soon is Senior Staff/Engineers that is more than 50% of employees  who are near to retirement.
  ![Retiring Titles](https://github.com/shivam0921/Pewlett-Hackard-Analysis/blob/main/Challenge_Deliverable/retiring_titles.PNG)
+
+* The total no of mentors available with the company are 1549 with titles of Senior Staff and Senior Engineers that can help different teams across company to bring new talent to speed with organizing workshop.
+
+* The deep analysis gave us the estimated numbers of employees that will retire soon, this is oppurtnity where company can make decisions of Promoting new and giving new duties to the young employees and show confidience and expedite there hiring process.
+
+## Summary ##
+
+*  The questions rises as the result of 'silver tsunami' the company will have to fill 90,398 positions. Is there the enough talent in the market to fill these positions and we hire the fresh talent * Do we have enough mentor to guide them and help them to adapt the company environment.
+
+- 

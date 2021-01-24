@@ -23,6 +23,10 @@ The analysis by identifying various relationship (primary and Foriegn Keys) betw
 
 ## Summary ##
 
-*  The questions rises as the result of 'silver tsunami' the company will have to fill 90,398 positions. Is there the enough talent in the market to fill these positions and we hire the fresh talent * Do we have enough mentor to guide them and help them to adapt the company environment.
+*  The questions rises as the result of 'silver tsunami' the company will have to fill 90,398 positions. Is there the enough talent in the market to fill these positions and we hire the fresh talent *  **Do we have enough mentor to guide them and help them to adapt the company environment?**.
 
-- 
+To find we ran the following code to see how many mentors available in the comapny and they can work in different departments work.
+![Mentorship_Results(https://github.com/shivam0921/Pewlett-Hackard-Analysis/blob/main/Challenge_Deliverable/mentorship_eligibilty.PNG)
+
+So, After seeing the PH will have oppurtnity to give new leadership responsbility to run smooth functioning of the company and the PH will have mentor to guide fresh talent in the various steps.
+
